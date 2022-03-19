@@ -1,6 +1,6 @@
 # Williams-God'sfavour
 
-(Hi there 👋)
+> ## Hi there 👋
 
 Welcome!!!! My name's Williams Godsfavour, I'm a Frontend Engineer currently delving into web3. I do anything revolving around the web using JavaScript.
 
