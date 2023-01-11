@@ -4,6 +4,8 @@
 
 Welcome!!!! My name's Williams Godsfavour, I'm a Frontend Engineer currently delving into web3. I do anything revolving around the web using JavaScript.
 
+![](https://komarev.com/ghpvc/GodsfavourWiliiams&label=PROFILE+VIEWS)
+
 What I work on these days 💼
  I build tiny demo apps to solve problems I have as a developer or in my every day life.  Learning Solidity and Rust. I love making meaningful friendships, playing video games and sleeping
 
@@ -17,4 +19,4 @@ CSS (Bootstrap, Tailwind, Sass, Material Ui) ✅
 Blockchain Development/web3 ⏳
 Technology trends
 ```
-![](https://komarev.com/ghpvc/?GodsfavourWiliiams)
+
