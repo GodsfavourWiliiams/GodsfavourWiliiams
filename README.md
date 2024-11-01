@@ -16,8 +16,8 @@ Everyday I think about how it would feel like to have a diverse skillset across 
 Javascript ✅
 React Js ✅
 Next Js ✅
-Typesript ✅
-CSS (Bootstrap, Tailwind, Sass, Material Ui,Chakra Ui) ✅
+Typescript ✅
+CSS (Bootstrap, Tailwind, Sass, Material Ui, Chakra Ui) ✅
 Blockchain Development/web3 ⏳
 Technology trends
 ```
